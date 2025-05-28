@@ -57,6 +57,10 @@ padding-left: 10px;
     color: #004d4c;
 }
 
+.ing li{
+    line-height: 2em;
+}
+
 hr{
     border-color: #7ed5d5;
 }
@@ -74,3 +78,4 @@ footer div{
     margin-left: auto;
     margin-right: auto;
 }
+
